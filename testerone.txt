@@ -1,1 +1,4 @@
-we have zero guts
+<<<<<<< HEAD
+=======
+we dont have guts
+>>>>>>> gitbranch2
